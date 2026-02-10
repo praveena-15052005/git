@@ -32,3 +32,11 @@ tfoot {
     background-color: #eee;
     font-weight: bold;
 }
+body {
+    text-align: center;
+    font-family: Arial;
+}
+
+img, audio, video {
+    margin: 15px;
+}
