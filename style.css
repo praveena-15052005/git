@@ -9,3 +9,26 @@ form {
     width: 300px;
     border: 1px solid gray;
 }
+body {
+    font-family: Arial;
+}
+
+table {
+    border-collapse: collapse;
+    width: 70%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+thead {
+    background-color: lightgray;
+}
+
+tfoot {
+    background-color: #eee;
+    font-weight: bold;
+}
